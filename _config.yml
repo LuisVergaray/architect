@@ -1,5 +1,5 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+title: GT ML7641 Project
+description: This webpage presents the development of a NN capable to do image classifcation for medical applications, specifically the identification of colonorectal Cancer
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
